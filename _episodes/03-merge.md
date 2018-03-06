@@ -1,0 +1,11 @@
+---
+title: "Merge -- combining adjacent features"
+teaching: 10
+exercises: 10
+questions:
+objectives:
+keypoints:
+
+---
+
+## 

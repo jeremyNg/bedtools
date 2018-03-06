@@ -6,7 +6,7 @@ questions:
 - "What is a genome arithmetic and why do we use it?"
 objectives:
 keypoints:
-keypoints:
+
 ---
 
 

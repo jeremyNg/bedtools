@@ -1,0 +1,13 @@
+---
+title: "Intersect -- the workhorse of bedtools"
+teaching: 10
+exercises: 10
+questions:
+- "What are the different options in `bedtools intersect`, and what do
+they do?"
+objectives:
+keypoints:
+keypoints:
+---
+
+## Intersect: the workhorse of `bedtools`
