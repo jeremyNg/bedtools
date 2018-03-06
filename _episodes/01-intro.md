@@ -6,13 +6,14 @@ questions:
 - "What is a genome arithmetic?"
 objectives:
 keypoints:
-
+- "Genome arithmetic is the application of set operations on genomic coordinates"
+- "bedtools is a set of programs that enable one to perform genome arithmetic from a range of file types."
 ---
 
 
 ## What is genome arithmetic?
 
-Genome arithmetic is the application of *set theory* on the genome. Recall that given 2 sets (**A** and **B**), we can perform operations such as finding the *intersect* (found in both **A** and *B**), the *complement* (not found in the set), the *union* (found in **A OR B**), as well as count the number of elements. Similarly, these operations can be performed given 2 sets of genomic coordinates.
+Genome arithmetic is the application of *set theory* on the genome. Recall that given 2 sets (**A** and **B**), we can perform operations such as finding the *intersect* (found in both **A** and **B**), the *complement* (not found in the set), the *union* (found in **A OR B**), as well as count the number of elements. Similarly, these operations can be performed given 2 sets of genomic coordinates.
 
 There are various tools that have been developed for genome arithmetic. One of the most commonly used tool is *bedtools*, which is a stand-alone command line interface set of programs. *Bedtools* has found widespread use due to the following reasons:
 
