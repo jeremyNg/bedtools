@@ -8,6 +8,7 @@ programs used for genome arithmetic. *Bedtools* is often called the swiss-army k
 especially for the analysis of NGS assays, which returns genomic
 coordinates following pre-processing. 
 
+The materials from this tutorial is summarized from the official *bedtools* tutorial found at [[http://quinlanlab.org/tutorials/bedtools/bedtools.html]].
 > ## Prerequistes
 >
 > You are expected to understand how genome arithmetic works. In this
