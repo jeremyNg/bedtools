@@ -3,12 +3,14 @@ title: "Merge -- combining adjacent features"
 teaching: 10
 exercises: 10
 questions:
-- "Why do we use `merge`"? 
+- "Why do we use bedtools merge?" 
 objectives:
-- "Be aware of how to use the `merge` command in bedtools"
+- "Be aware of how to use the merge command in bedtools"
 - "Be able to use different options, depending on analysis needs"
 keypoints:
-
+-"merge enables us to combine regions that overlap to give us a single
+contiguous interval, or regions that are less than a given distance
+apart"
 ---
 
 ## Why do we need to merge? 
