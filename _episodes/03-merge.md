@@ -5,8 +5,11 @@ exercises: 10
 questions:
 - "When do we use merge?"
 objectives:
+- "Be aware of what are some options in merge for analysis"
 keypoints:
-
+- "merge requires the input files to be sorted"
+- "Using the `-d` option, we can specify different distances to be
+  considered for merging"
 
 ---
 
