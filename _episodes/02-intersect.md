@@ -2,13 +2,15 @@
 title: "Intersect -- the workhorse of bedtools"
 teaching: 10
 exercises: 10
-questions:
 - "What are the different options in `bedtools intersect`, and what do
 they do?"
 objectives:
 - "Understand how to use `intersect`.
 - "Be aware of different reporting options that are provided by
 `intersect`". 
+keypoints:
+- "`intersect` provides a wide range of options that enable the
+reporting of different results"
 ---
 
 ## Intersect: the workhorse of `bedtools`
