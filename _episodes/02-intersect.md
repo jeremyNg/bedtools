@@ -9,8 +9,6 @@ objectives:
 - "Understand how to use `intersect`.
 - "Be aware of different reporting options that are provided by
 `intersect`". 
-
-
 ---
 
 ## Intersect: the workhorse of `bedtools`

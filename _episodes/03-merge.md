@@ -15,7 +15,7 @@ able to recover a single continuous region, which simplifies our
 analysis. This is shown in the figure below. *Bedtools* enables this operation to be done using `merge`,
 which we will discuss next. 
 
-()[../fig/merge.png]
+![Merging regions](../fig/merge.png)
 ## Using `merge`
 
 > ## Requisite for merging
