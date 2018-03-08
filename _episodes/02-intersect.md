@@ -78,3 +78,11 @@ bedtools intersect -a cpg.bed -b exons.bed -v
 The command above will tell us which CpG islands are not located
 within any exon. 
 
+## Finding the complement of a set of intervals
+Another useful tool is `complement`, which tells us which regions of the **genome** is not covered by the intervals represented in our *bed* file. In order to use `complement`, we need to provide a genome file, which tells *bedtools* how many bases are there in each chromosome.
+
+> ## Difference between `complement` and `intersect -v`
+>
+> What is the difference between `complement` and `intersect -v`?
+>
+{: .challenge}
