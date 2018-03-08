@@ -1,5 +1,5 @@
 ---
-title: "Introducing genome arithmetic"
+title: "Intersect: finding common regions between two files"
 teaching: 10
 exercises: 10
 questions:
