@@ -13,6 +13,7 @@ contiguous interval, or regions that are less than a given distance
 apart"
 ---
 
+
 ## Why do we need to merge? 
 Sometimes, we obtain regions that show overlaps that can be collapsed
 into a single contiguous interval. By merging these regions, we are
