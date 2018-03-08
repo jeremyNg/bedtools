@@ -21,7 +21,7 @@ are found in **B**. The figure below (taken from
 [http://quinlanlab.org/tutorials/bedtools/bedtools.html]) illustrates
 the `intersect` between 2 or more files. 
 
-()[../fig/intersect.png]
+() [../fig/intersect.png]
 
 To find out what the options are for `intersect`, simply issue the
 following on the command line: 
